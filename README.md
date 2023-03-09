@@ -31,7 +31,7 @@ body {
 
 .main {
   margin-left: 160px; /* Same as the width of the sidenav */
-  font-size: 28px; /* Increased text to enable scrolling */
+  font-size: 16px; /* Increased text to enable scrolling */
   padding: 0px 10px;
 }
 
@@ -51,10 +51,10 @@ body {
 </div>
 
 <div class="main">
-  <h2 style="color:blue;font-size:20px;" >Short bio</h2>
-  <p style="color:black;font-size:12px;" >Postdoc at UiO. Theoretical and numerical fluid dynamics.</p>
-  <p style="color:black;font-size:12px;" >Phd from 2021.</p>
-  <p style="color:black;font-size:12px;" >Also interested in machine learning.</p>
+  <h2 style="color:blue;font-size:24px;" >Short bio</h2>
+  <p>Postdoc at UiO. Theoretical and numerical fluid dynamics.</p>
+  <p>Phd from 2021.</p>
+  <p>Also interested in machine learning.</p>
   <h2>Contact</h2>
   <p>chrpe at math.uio.no.</p>
   <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
