@@ -20,8 +20,8 @@ body {
 .sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
-  font-size: 25px;
-  color: #818181;
+  font-size: 12px;
+  color: white;
   display: block;
 }
 
@@ -51,7 +51,7 @@ body {
 </div>
 
 <div class="main">
-  <h2 style="color:blue;font-size:24px;" >Short bio</h2>
+  <h2 style="color:DodgerBlue;font-size:24px;" >Short bio</h2>
   <p>Postdoc at UiO. Theoretical and numerical fluid dynamics.</p>
   <p>Phd from 2021.</p>
   <p>Also interested in machine learning.</p>
