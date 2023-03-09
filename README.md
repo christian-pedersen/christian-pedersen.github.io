@@ -1,5 +1,4 @@
 # christian-pedersen.github.io
-# make something
 <html>
   <head>
     <title>My Homepage</title>
@@ -10,7 +9,7 @@
     <h1>My homepage!</h1>
     
     <h2>
-        ;)
+        coming soon
     </h2>
 
   </body>
