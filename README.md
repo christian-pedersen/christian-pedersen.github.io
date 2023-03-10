@@ -8,7 +8,11 @@ img {border-radius: 50%;
 body {
   font-family: "Lato", sans-serif;
 }
-
+a:link {
+  color: green; 
+  background-color: transparent; 
+  text-decoration: none;
+  }
 .sidenav {
   height: 100%;
   width: 260px;
@@ -58,7 +62,7 @@ body {
     Christian Pedersen </center>
   </p>
   <a href = "mailto: chrpe@math.uio.no">
-    <center style="color:LightGray;font-size:18px">
+    <center style="color:Gray;font-size:18px">
     chrpe@math.uio.no </center>
   </a>
     <a class="social-icon" href="https://scholar.google.no/citations?user=uOLl9eAAAAAJ&hl=no;hl=en" target="_blank" rel="noopener" title="Google Scholar">
