@@ -8,6 +8,9 @@ img {border-radius: 50%;
 body {
   font-family: "Lato", sans-serif;
 }
+  
+.social-icon{padding:0 .25em;margin:0 .25em;display:inline-block;height:2em;position:relative} 
+  
 a:link {
   color: gray; 
   background-color: transparent; 
