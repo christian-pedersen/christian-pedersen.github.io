@@ -16,7 +16,7 @@ body {
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: Tomato;
+  background-color: White;
   overflow-x: hidden;
   padding-top: 20px;
 }
@@ -53,13 +53,17 @@ body {
       <img src="https://christian-pedersen.github.io/img/avatar.jpg" alt="Christian Pedersen" />
     </a>
   </div>
-  <h1 style="font-size:20px">
+  <h1 style="font-size:22px">
     <center>
     Christian Pedersen </center><br>
   </h1>
-  <a href="#about">About</a>
-  <a href="#services">Services</a>
-  <a href="#clients">Clients</a>
+  <h1 style="color:LightGray;font-size:18px">
+    <center>
+    chrpe@math.uio.no </center><br>
+  </h1>
+  <a href="#about">About me</a>
+  <a href="#services">Research</a>
+  <a href="#clients">Publications</a>
   <a href="#contact">Contact</a>
 </div>
 
