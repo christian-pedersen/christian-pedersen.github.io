@@ -55,10 +55,10 @@ body {
   </div>
   <p>
     <center style="color:Black;font-size:22px">
-    Christian Pedersen </center><br>
+    Christian Pedersen </center>
   </p>
-  <a style="color:LightGray;font-size:18px">
-    <center>
+  <a href = "mailto: chrpe@math.uio.no">
+    <center style="color:LightGray;font-size:18px">
     chrpe@math.uio.no </center>
   </a>
   <a href="#about">About me</a>
