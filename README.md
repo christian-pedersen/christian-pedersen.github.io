@@ -70,7 +70,7 @@ body {
   <a href="#services">Research</a>
   <a href="#clients">Publications</a>
   <a href="#contact">Contact</a>
-  <p style="color:Black; font-size:12px; text-align:center">&copy; 2023 Christian Pedersen</p>
+  <p style="position: absolute; bottom: 5px;color:Black; font-size:12px; text-align:center">&copy; 2023 Christian Pedersen</p>
   
 </div>
 
