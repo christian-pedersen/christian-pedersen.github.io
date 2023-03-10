@@ -53,8 +53,8 @@ body {
       <img src="https://christian-pedersen.github.io/img/avatar.jpg" alt="Christian Pedersen" />
     </a>
   </div>
-  <p style="color:Black;font-size:22px">
-    <center>
+  <p>
+    <center style="color:Black;font-size:22px">
     Christian Pedersen </center><br>
   </p>
   <a style="color:LightGray;font-size:18px">
