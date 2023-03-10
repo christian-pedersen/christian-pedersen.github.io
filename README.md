@@ -53,7 +53,7 @@ body {
       <img src="https://christian-pedersen.github.io/img/avatar.jpg" alt="Christian Pedersen" />
     </a>
   </div>
-  <p style="font-size:22px">
+  <p style="color:Black;font-size:22px">
     <center>
     Christian Pedersen </center><br>
   </p>
@@ -65,7 +65,7 @@ body {
   <a href="#services">Research</a>
   <a href="#clients">Publications</a>
   <a href="#contact">Contact</a>
-  <p style="color:Black; font-size=12px; text-align:center">&copy; 2023 Christian Pedersen</p>
+  <p style="color:Black; font-size:12px; text-align:center">&copy; 2023 Christian Pedersen</p>
   
 </div>
 
