@@ -15,6 +15,9 @@ a:link {
   }
 a:hover { color: green; text-decoration: none; font-weight: none; }
   
+.social-icons{
+  display:inline-block;}  
+  
 .sidenav {
   height: 100%;
   width: 260px;
