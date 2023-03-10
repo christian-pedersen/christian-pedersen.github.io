@@ -3,6 +3,8 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+img {border-radius: 50%;
+  }
 body {
   font-family: "Lato", sans-serif;
 }
@@ -32,7 +34,7 @@ body {
 }
 
 .main {
-  margin-left: 0px; /* Same as the width of the sidenav */
+  margin-left: 100px; /* Same as the width of the sidenav */
   font-size: 16px; /* Increased text to enable scrolling */
   padding: 0px 10px;
 }
