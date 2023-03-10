@@ -9,10 +9,12 @@ body {
   font-family: "Lato", sans-serif;
 }
 a:link {
-  color: green; 
+  color: gray; 
   background-color: transparent; 
   text-decoration: none;
   }
+a:hover { color: green; text-decoration: none; font-weight: none; }
+  
 .sidenav {
   height: 100%;
   width: 260px;
