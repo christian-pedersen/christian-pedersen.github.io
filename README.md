@@ -25,7 +25,7 @@ body {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 12px;
-  color: white;
+  color: black;
   display: block;
 }
 
@@ -54,7 +54,7 @@ body {
     </a>
   </div>
   <p>
-    <center style="color:Black;font-size:22px">
+    <center style="color:Black;font-size:24px">
     Christian Pedersen </center>
   </p>
   <a href = "mailto: chrpe@math.uio.no">
