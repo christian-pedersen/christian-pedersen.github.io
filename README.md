@@ -46,6 +46,11 @@ body {
 <body>
 
 <div class="sidenav">
+    <div class="avatar">
+      <a href="/">
+          <img src="https://christian-pedersen.github.io/img/avatar.jpg" alt="Christian Pedersen" />
+      </a>
+  </div>
   <a href="#about">About</a>
   <a href="#services">Services</a>
   <a href="#clients">Clients</a>
