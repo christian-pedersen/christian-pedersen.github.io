@@ -108,13 +108,22 @@ a:hover { color: green; text-decoration: none; font-weight: none; }
     </a>   
     
  </div>
-  
-  <a style="left:20px" href="#main">About me</a>
-  <a style="left:20px" href="#services">Research</a>
-  <a style="left:20px" href="#clients">Publications</a>
-  <a style="left:20px" href="#contact">Contact</a>
+  <div class="nav-menu">
+    
+      <a class="nav-link" href=""main">About me</a>
+    
+      <a class="nav-link" href="/research">Research</a>
+    
+      <a class="nav-link" href="/publications/">Publications</a>
+    
+      <a class="nav-link" href="/contact/">Contact</a>
+    
+  </div>  
+
+  <footer class="footer">                                      
   <p style="position: absolute; bottom: 5px; left:80px; color:Black; font-size:12px">&copy; 2023 Christian Pedersen</p>
-  
+  </footer>
+                                                                                    
 </div>
 
 <div class="main">
