@@ -76,6 +76,11 @@ a:hover { color: green; text-decoration: none; font-weight: none; }
   </a>
   
   <div class="social-icons">
+  
+        <a class="social-icon" href="https://www.linkedin.com/in/christian-pedersen-188b8a129/" target="_blank" rel="noopener" title="LinkedIn">
+        <svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" fill="#ABABAB" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink">
+        </svg>
+    </a>
     
     <a class="social-icon" href="https://scholar.google.no/citations?user=uOLl9eAAAAAJ&hl=no;hl=en" target="_blank" rel="noopener" title="Google Scholar">
         <svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" fill="#ABABAB" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink">
