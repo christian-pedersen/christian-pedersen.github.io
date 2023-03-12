@@ -17,6 +17,8 @@ a:link {
   }
 a:hover { color: green; text-decoration: none; font-weight: none; }
   
+.social-icons{display:flex;justify-content:center;margin-bottom:2em}.sidenav
+.social-icon{padding:0 .25em;margin:0 .25em;display:inline-block;height:2em;position:relative}.site-title .social-icon>svg:hover{fill:var(--link-bright)}.sidenav
 .social-icon{
   display:inline-block;}  
   
