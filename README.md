@@ -108,9 +108,10 @@ a:hover { color: green; text-decoration: none; font-weight: none; }
     </a>   
     
  </div>
+  
   <div class="nav-menu">
     
-      <a class="nav-link" href=""main">About me</a>
+      <a class="nav-link" href="main">About me</a>
     
       <a class="nav-link" href="/research">Research</a>
     
