@@ -101,7 +101,7 @@ a:hover { color: green; text-decoration: none; font-weight: none; }
         </svg>
     </a>   
     
-      <a class="social-icon" href="https://www.researchgate.net/profile/Christian-Pedersen-18" target="_blank" rel="noopener" title="Strava">
+      <a class="social-icon" href="https://www.strava.com/athletes/39421736" target="_blank" rel="noopener" title="Strava">
         <svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" fill="#ABABAB" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink">
             <path d="M15.387 17.944l-2.089-4.116h-3.065L15.387 24l5.15-10.172h-3.066m-7.008-5.599l2.836 5.598h4.172L10.463 0l-7 13.828h4.169z"></path>
         </svg>
